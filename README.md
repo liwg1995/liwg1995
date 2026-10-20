@@ -1,26 +1,25 @@
 <!--
-  LIWG GitHub Profile README · Glassmorphism Edition
-  Author: liwg1995  |  Assets in ./assets
-  This README is intended for the PUBLIC repository liwg1995/liwg1995.
-  No secrets, API tokens or auto-running workflows required.
+  LIWG Profile · Night Studio Edition
+  Maintains current personal introduction and features only YuduBid.
+  Assets local; GIF animation has reduced-motion still.
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-glass-still.svg" />
-    <img src="./assets/hero-glass.svg" alt="Hello, I'm LIWG — AI Builder, Cloud Native Developer" width="100%" />
-  </picture>
+  <a href="https://github.com/liwg1995/YuduBid" title="查看 YuduBid">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-night-studio-still.png" />
+      <img src="./assets/hero-night-studio.gif" width="100%" alt="夜色 AI 工作室：LIWG 使用 YuduBid 工作台开发产品，月光与城市夜景" />
+    </picture>
+  </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/liwg1995/YuduBid"><img alt="YuduBid Source" src="https://img.shields.io/badge/YuduBid-Source-92A7FF?style=for-the-badge&labelColor=17213B&logo=github&logoColor=white" /></a>
-  <a href="https://bid.olei.me/"><img alt="YuduBid Website" src="https://img.shields.io/badge/YuduBid-Website-66D9E8?style=for-the-badge&labelColor=17213B&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/liwg1995?tab=followers"><img alt="Follow LIWG" src="https://img.shields.io/badge/Follow-on%20GitHub-BC9AFF?style=for-the-badge&labelColor=17213B&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/liwg1995/YuduBid"><img src="https://img.shields.io/badge/YuduBid-源码仓库-98DDEC?style=for-the-badge&labelColor=202A46&logo=github&logoColor=white" alt="YuduBid 源码" /></a>
+  <a href="https://bid.olei.me/"><img src="https://img.shields.io/badge/YuduBid-产品官网-BDA1FA?style=for-the-badge&labelColor=202A46&logo=googlechrome&logoColor=white" alt="YuduBid 官网" /></a>
+  <a href="https://github.com/liwg1995?tab=followers"><img src="https://img.shields.io/badge/Follow-LIWG-91CDE9?style=for-the-badge&labelColor=202A46&logo=github&logoColor=white" alt="Follow LIWG" /></a>
 </p>
 
-<img src="./assets/glass-divider.svg" alt="" width="100%" />
-
-### 👋 关于我 · About Me
+<img src="./assets/section-about.png" width="100%" alt="01 关于我 · About Me" />
 
 你好，我是 **LIWG**，关注 **AI 应用落地、云原生技术、开源产品与开发者效率**。
 
@@ -30,41 +29,33 @@
 - ☁️ **云原生 / 工程**：容器化、Kubernetes、Linux、云边协同与应用工程化
 - ✨ **产品理念**：注重体验、长期迭代，尽量让复杂能力变得简单易用
 
-### ✦ 唯一精选作品 · YuduBid
+<img src="./assets/section-project.png" width="100%" alt="02 精选作品 · Featured Project" />
 
-<a href="https://github.com/liwg1995/YuduBid" title="查看 YuduBid 项目">
-  <img src="./assets/project-yudubid-glass.svg" width="100%" alt="YuduBid：禹都 AI 解决方案助手" />
-</a>
+<a href="https://github.com/liwg1995/YuduBid"><img src="./assets/featured-yudubid.png" width="100%" alt="YuduBid · 禹都 AI 解决方案助手" /></a>
 
-**[YuduBid · 禹都 AI 解决方案助手](https://github.com/liwg1995/YuduBid)**  
+**[YuduBid · 禹都 AI 解决方案助手](https://github.com/liwg1995/YuduBid)**
+
 面向售前支持、技术标书、公文写作、论文辅导、课题申报、项目管理、软著和专利等场景的本地 AI 工作台。把资料整理、内容生成、校审与 Word 导出整合进桌面流程。
 
-[![YuduBid Stars](https://img.shields.io/github/stars/liwg1995/YuduBid?style=flat-square&label=Stars&color=8B91EC&labelColor=202C48)](https://github.com/liwg1995/YuduBid/stargazers) [![YuduBid Last Commit](https://img.shields.io/github/last-commit/liwg1995/YuduBid?style=flat-square&label=Updated&color=63CAD6&labelColor=202C48)](https://github.com/liwg1995/YuduBid/commits) [![YuduBid Releases](https://img.shields.io/github/v/release/liwg1995/YuduBid?style=flat-square&label=Release&color=AC94F5&labelColor=202C48)](https://github.com/liwg1995/YuduBid/releases)
+[![YuduBid Stars](https://img.shields.io/github/stars/liwg1995/YuduBid?style=flat-square&label=Stars&color=8B91EC&labelColor=202C48)](https://github.com/liwg1995/YuduBid/stargazers)
+[![YuduBid Last Commit](https://img.shields.io/github/last-commit/liwg1995/YuduBid?style=flat-square&label=Updated&color=63CAD6&labelColor=202C48)](https://github.com/liwg1995/YuduBid/commits)
+[![YuduBid Releases](https://img.shields.io/github/v/release/liwg1995/YuduBid?style=flat-square&label=Release&color=AC94F5&labelColor=202C48)](https://github.com/liwg1995/YuduBid/releases)
 
+<img src="./assets/section-tech.png" width="100%" alt="03 技术领域 · Tech Stack" />
 
-### ⌘ 技术栈 · Tech Stack
-
-<img src="./assets/stack-glass.svg" alt="Technology: LLM, Agent, Electron, React, TypeScript, Python, Go, Docker, Kubernetes, Linux" width="100%" />
+<img src="./assets/tech-overview.png" width="100%" alt="AI/LLM/Agent, Electron, React, TypeScript, Docker, Kubernetes, Linux, Python, Go" />
 
 > **主要方向**：AI 应用开发 / 桌面客户端 / Web 全栈 / 云原生。上方为日常使用与持续学习的技术领域，不代表每个项目都使用了全部技术。
 
-### ◈ 开源动态 · GitHub Activity
+<img src="./assets/section-activity.png" width="100%" alt="04 开源动态 · GitHub Activity" />
 
 <p align="center">
   <a href="https://github.com/liwg1995/YuduBid/stargazers"><img src="https://img.shields.io/github/stars/liwg1995/YuduBid?style=for-the-badge&label=YuduBid%20Stars&color=9B8CEE&labelColor=202C48&logo=github" alt="YuduBid stars" /></a>
   <a href="https://github.com/liwg1995?tab=overview"><img src="https://img.shields.io/badge/Contribution-Overview-65D4E1?style=for-the-badge&labelColor=202C48&logo=github&logoColor=white" alt="Contribution overview" /></a>
 </p>
 
+<p align="center"><a href="https://github.com/liwg1995">GitHub · @liwg1995</a>　·　<a href="https://bid.olei.me/">YuduBid 官网</a></p>
 
-### ↗ 找到我 · Connect
-
-<p align="center">
-  <a href="https://github.com/liwg1995"><img src="https://img.shields.io/badge/GitHub-liwg1995-161E31?style=flat-square&logo=github&logoColor=white" alt="GitHub liwg1995" /></a>
-  <a href="https://bid.olei.me/"><img src="https://img.shields.io/badge/YuduBid-bid.olei.me-161E31?style=flat-square&logo=googlechrome&logoColor=66D9E8" alt="YuduBid website" /></a>
-</p>
-
-<br/>
-
-<p align="center"><img src="./assets/footer-glass.svg" width="100%" alt="Think · Build · Share" /></p>
+<img src="./assets/footer-night.png" width="100%" alt="Think · Build · Share" />
 
 <p align="center"><sub>Designed for <a href="https://github.com/liwg1995">@liwg1995</a> · Thanks for visiting.</sub></p>
