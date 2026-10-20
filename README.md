@@ -60,12 +60,12 @@ YuduBid 是一款面向实际工作场景的 AI 桌面助手，围绕 **售前�
 
 </div>
 
-<img src="./assets/section-activity.svg" width="100%" alt="04 开源足迹 / GitHub Activity" />
+<!-- <img src="./assets/section-activity.svg" width="100%" alt="04 开源足迹 / GitHub Activity" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
   <img src="./assets/snake-light.svg" width="100%" alt="GitHub 贡献记录动画" />
-</picture>
+</picture> -->
 
 <div align="center">
 
