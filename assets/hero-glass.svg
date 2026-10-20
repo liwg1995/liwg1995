@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="LIWG — AI Builder, Cloud Native, Open Source. Glassmorphism banner" viewBox="0 0 1120 430" width="1120" height="430"><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F21"/><stop offset=".54" stop-color="#111D39"/><stop offset="1" stop-color="#111A34"/></linearGradient>
+  <radialGradient id="violet"><stop stop-color="#9567FF" stop-opacity=".62"/><stop offset=".43" stop-color="#7456EB" stop-opacity=".25"/><stop offset="1" stop-color="#7755FF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="aqua"><stop stop-color="#48F0EE" stop-opacity=".53"/><stop offset=".48" stop-color="#35B9E7" stop-opacity=".22"/><stop offset="1" stop-color="#35B9E7" stop-opacity="0"/></radialGradient>
+  <linearGradient id="border" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".77"/><stop offset=".24" stop-color="#DBD8FF" stop-opacity=".32"/><stop offset=".65" stop-color="#9B9DDE" stop-opacity=".12"/><stop offset="1" stop-color="#6EDAE8" stop-opacity=".47"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F7FF" stop-opacity=".185"/><stop offset=".42" stop-color="#B7BFFF" stop-opacity=".073"/><stop offset="1" stop-color="#ECFAFF" stop-opacity=".095"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2=".18"><stop stop-color="#80F3EF"/><stop offset=".52" stop-color="#97A6FF"/><stop offset="1" stop-color="#C397FF"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".48" stop-color="#FFFFFF" stop-opacity="0"/><stop offset=".5" stop-color="#FFFFFF" stop-opacity=".11"/><stop offset=".52" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
+  <linearGradient id="horizon" x1="0" x2="1"><stop stop-color="#85FEF0" stop-opacity="0"/><stop offset=".5" stop-color="#85FEF0" stop-opacity=".72"/><stop offset="1" stop-color="#AD8CFF" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#BED4FF" stroke-opacity=".048"/><circle cx="1" cy="1" r="1.2" fill="#B7E7F9" fill-opacity=".14"/></pattern>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  <filter id="shadow" x="-30%" y="-40%" width="165%" height="190%"><feDropShadow dx="0" dy="15" stdDeviation="19" flood-color="#030916" flood-opacity=".55"/></filter>
+  <clipPath id="mainclip"><rect x="20" y="19" width="1080" height="392" rx="33"/></clipPath>
+</defs><style>
+.float{animation:float 7s ease-in-out infinite;transform-origin:center}.float2{animation:float2 9s ease-in-out infinite;transform-origin:center}
+.breathe{animation:breathe 4.2s ease-in-out infinite}.twinkle{animation:twinkle 3.2s ease-in-out infinite}
+.slide{animation:slide 9s linear infinite}.trace{animation:trace 7s ease-in-out infinite}
+.line1{animation:label1 10s infinite}.line2{animation:label2 10s infinite}.line3{animation:label3 10s infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+@keyframes float2{0%,100%{transform:translate(0,0)}50%{transform:translate(5px,9px)}}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes twinkle{0%,100%{opacity:.17}50%{opacity:.95}}
+@keyframes slide{0%{transform:translateX(-460px)}100%{transform:translateX(1500px)}}
+@keyframes trace{0%,100%{stroke-dashoffset:150;opacity:.35}55%{stroke-dashoffset:0;opacity:.9}}
+@keyframes label1{0%,28%{opacity:1}33%,95%{opacity:0}100%{opacity:1}}
+@keyframes label2{0%,28%{opacity:0}33%,61%{opacity:1}67%,100%{opacity:0}}
+@keyframes label3{0%,61%{opacity:0}67%,95%{opacity:1}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.line2,.line3{opacity:0!important}.line1{opacity:1!important}}
+</style>
+<rect width="1120" height="430" rx="34" fill="#080E1D"/>
+<rect width="1120" height="430" rx="34" fill="url(#bg)"/>
+<g clip-path="url(#mainclip)">
+ <ellipse cx="1030" cy="92" rx="343" ry="253" fill="url(#violet)" class="float"/>
+ <ellipse cx="780" cy="290" rx="340" ry="280" fill="url(#aqua)" class="float2"/>
+ <rect x="20" y="19" width="1080" height="392" fill="url(#grid)"/>
+ <path d="M610 0L1140 0L700 430Z" fill="#FFF" fill-opacity=".018"/>
+ <rect x="20" y="19" width="1080" height="392" rx="33" fill="#EFF1FF" fill-opacity=".046"/>
+ <rect x="20.7" y="19.7" width="1078.6" height="390.6" rx="32.5" fill="none" stroke="url(#border)" stroke-width="1.5"/>
+ <path d="M58 20H605" stroke="#fff" stroke-opacity=".46" stroke-width="1.2"/>
+ <path d="M21 61V203" stroke="#8AEFEF" stroke-opacity=".29" stroke-width="1.6"/>
+ <g class="float2">
+  <rect x="747" y="71" width="291" height="273" rx="26" fill="#070C1B" fill-opacity=".52" filter="url(#shadow)"/>
+  <rect x="747" y="71" width="291" height="273" rx="26" fill="url(#glass)" stroke="url(#border)" stroke-width="1.7"/>
+  <path d="M770 72H996" stroke="#FFF" stroke-opacity=".45" stroke-width="1.3"/>
+  <circle cx="781" cy="104" r="5" fill="#80F0E9"/>
+  <circle cx="798" cy="104" r="5" fill="#B39CFF" fill-opacity=".84"/>
+  <circle cx="815" cy="104" r="5" fill="#C8D6E8" fill-opacity=".55"/>
+  <text x="846" y="109" fill="#C1C9EA" font-size="13" font-family="Inter,Arial,sans-serif" letter-spacing="2">AI WORKSPACE</text>
+  <rect x="769" y="126" width="247" height="1" fill="#FFF" fill-opacity=".15"/>
+  <rect x="771" y="150" width="100" height="12" rx="6" fill="#E9EEFF" fill-opacity=".60"/>
+  <rect x="771" y="176" width="200" height="6" rx="3" fill="#A0C7E4" fill-opacity=".25"/>
+  <rect x="771" y="191" width="176" height="6" rx="3" fill="#A0C7E4" fill-opacity=".22"/>
+  <rect x="771" y="206" width="211" height="6" rx="3" fill="#A0C7E4" fill-opacity=".17"/>
+  <rect x="771" y="236" width="245" height="87" rx="14" fill="#68B8E5" fill-opacity=".076" stroke="#A3EAFF" stroke-opacity=".20"/>
+  <path d="M788 293C812 291 815 271 839 274S869 292 890 268S926 251 945 270S985 280 998 252" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" class="trace" stroke-dasharray="100 9"/>
+  <path d="M788 305H997" stroke="#D4E6FF" stroke-opacity=".14"/>
+ </g>
+ <g class="float">
+  <rect x="666" y="140" width="144" height="86" rx="19" fill="#101A32" fill-opacity=".92" stroke="url(#border)" stroke-width="1.4"/>
+  <text x="685" y="169" fill="#A2AED1" font-size="12" letter-spacing="1.6" font-family="Inter,Arial,sans-serif">FOCUS / 01</text>
+  <circle cx="686" cy="196" r="5" fill="#6EE4DE" class="breathe"/>
+  <text x="699" y="202" fill="#F2F5FF" font-size="17" font-weight="600" font-family="Inter,Arial,sans-serif">AI Native</text>
+ </g>
+ <g class="float">
+  <rect x="901" y="316" width="169" height="53" rx="16" fill="#141F3C" fill-opacity=".94" stroke="url(#border)" stroke-width="1.3"/>
+  <circle cx="923" cy="342" r="5" fill="#90F1EF" class="breathe"/>
+  <text x="937" y="347" fill="#E6EDFF" font-size="13" letter-spacing="1.4" font-family="Inter,Arial,sans-serif">BUILD / SHIP</text>
+ </g>
+ <g fill="#AEEFEF"><circle cx="709" cy="95" r="2" class="twinkle"/><circle cx="1060" cy="184" r="2.3" class="twinkle"/><circle cx="667" cy="302" r="1.7" class="twinkle"/></g>
+ <g class="slide"><path d="M-160 -20L-25 -20L260 432L120 432Z" fill="url(#shine)"/></g>
+</g>
+<g font-family="Inter,Arial,sans-serif">
+ <circle cx="72" cy="76" r="5.2" fill="#70E8E7" class="breathe"/>
+ <text x="91" y="81" fill="#B8C7E8" font-size="15" letter-spacing="3.1" font-weight="600">INDEPENDENT DEVELOPER</text>
+ <text x="69" y="161" fill="#CBD6EC" font-size="30" font-weight="500">Hello, I'm</text>
+ <text x="63" y="269" fill="#F8FAFF" font-size="110" font-weight="800" letter-spacing="-5">LIWG<tspan fill="#83E8EA">.</tspan></text>
+ <rect x="71" y="291" width="72" height="4" rx="2" fill="url(#accent)"/>
+ <text x="69" y="327" fill="#E0E7F9" font-size="22" font-weight="500" letter-spacing=".4">Building meaningful AI products.</text>
+ <text x="70" y="373" fill="#9BAED7" font-size="14" letter-spacing="2.5" class="line1">AI APPLICATIONS  /  CLOUD NATIVE</text>
+ <text x="70" y="373" fill="#9BAED7" font-size="14" letter-spacing="2.5" opacity="0" class="line2">ENGINEERING  /  OPEN SOURCE</text>
+ <text x="70" y="373" fill="#9BAED7" font-size="14" letter-spacing="2.5" opacity="0" class="line3">THINK  /  BUILD  /  SHARE</text>
+</g>
+</svg>

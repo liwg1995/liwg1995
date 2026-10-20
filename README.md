@@ -6,14 +6,19 @@
 -->
 
 <div align="center">
-  <img src="./assets/hero.png" alt="Hello, I'm LIWG — AI Builder, Cloud Native Developer" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-glass-still.svg" />
+    <img src="./assets/hero-glass.svg" alt="Hello, I'm LIWG — AI Builder, Cloud Native Developer" width="100%" />
+  </picture>
 </div>
 
 <p align="center">
-  <a href="https://github.com/liwg1995?tab=repositories"><img alt="GitHub Projects" src="https://img.shields.io/badge/Explore-Projects-92A7FF?style=for-the-badge&labelColor=17213B&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/liwg1995/YuduBid"><img alt="YuduBid Source" src="https://img.shields.io/badge/YuduBid-Source-92A7FF?style=for-the-badge&labelColor=17213B&logo=github&logoColor=white" /></a>
   <a href="https://bid.olei.me/"><img alt="YuduBid Website" src="https://img.shields.io/badge/YuduBid-Website-66D9E8?style=for-the-badge&labelColor=17213B&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/liwg1995?tab=followers"><img alt="Follow LIWG" src="https://img.shields.io/badge/Follow-on%20GitHub-BC9AFF?style=for-the-badge&labelColor=17213B&logo=github&logoColor=white" /></a>
 </p>
+
+<img src="./assets/glass-divider.svg" alt="" width="100%" />
 
 ### 👋 关于我 · About Me
 
@@ -25,10 +30,10 @@
 - ☁️ **云原生 / 工程**：容器化、Kubernetes、Linux、云边协同与应用工程化
 - ✨ **产品理念**：注重体验、长期迭代，尽量让复杂能力变得简单易用
 
-### ✦ 精选作品 · Featured Projects
+### ✦ 唯一精选作品 · YuduBid
 
 <a href="https://github.com/liwg1995/YuduBid" title="查看 YuduBid 项目">
-  <img src="./assets/project-yudubid.png" width="100%" alt="YuduBid：禹都 AI 解决方案助手" />
+  <img src="./assets/project-yudubid-glass.svg" width="100%" alt="YuduBid：禹都 AI 解决方案助手" />
 </a>
 
 **[YuduBid · 禹都 AI 解决方案助手](https://github.com/liwg1995/YuduBid)**  
@@ -39,14 +44,13 @@
 
 ### ⌘ 技术栈 · Tech Stack
 
-<img src="./assets/stack.png" alt="Technology: TypeScript, React, Electron, Next.js, Python, Go, Docker, Kubernetes, Linux, AI / LLM" width="100%" />
+<img src="./assets/stack-glass.svg" alt="Technology: LLM, Agent, Electron, React, TypeScript, Python, Go, Docker, Kubernetes, Linux" width="100%" />
 
 > **主要方向**：AI 应用开发 / 桌面客户端 / Web 全栈 / 云原生。上方为日常使用与持续学习的技术领域，不代表每个项目都使用了全部技术。
 
 ### ◈ 开源动态 · GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/liwg1995?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-97A7F8?style=for-the-badge&labelColor=202C48&logo=github&logoColor=white" alt="Public projects" /></a>
   <a href="https://github.com/liwg1995/YuduBid/stargazers"><img src="https://img.shields.io/github/stars/liwg1995/YuduBid?style=for-the-badge&label=YuduBid%20Stars&color=9B8CEE&labelColor=202C48&logo=github" alt="YuduBid stars" /></a>
   <a href="https://github.com/liwg1995?tab=overview"><img src="https://img.shields.io/badge/Contribution-Overview-65D4E1?style=for-the-badge&labelColor=202C48&logo=github&logoColor=white" alt="Contribution overview" /></a>
 </p>
@@ -61,6 +65,6 @@
 
 <br/>
 
-<p align="center"><img src="./assets/footer.png" width="100%" alt="Think · Build · Share" /></p>
+<p align="center"><img src="./assets/footer-glass.svg" width="100%" alt="Think · Build · Share" /></p>
 
 <p align="center"><sub>Designed for <a href="https://github.com/liwg1995">@liwg1995</a> · Thanks for visiting.</sub></p>
